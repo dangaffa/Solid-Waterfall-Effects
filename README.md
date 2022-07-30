@@ -5,7 +5,7 @@ A mod that adds Waterfall plumes to various Solid rocket boosters
 
 DEPENDENCIES (The mod will NOT work without these):
 
-Requires RealPlume, RealPlume Stock*, Module Manager, Waterfall, Smokescreen, TUFX (I don't know why it just is)
+Requires RealPlume, RealPlume Stock*, Module Manager, Waterfall 0.8.X , Smokescreen, TUFX (I don't know why it just is)
 
 *RealPlume stock only required if Restock is not installed
 
