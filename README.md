@@ -24,3 +24,6 @@ Lemoncup (Custom PhotonCorp Configs)
 
 
 https://forum.kerbalspaceprogram.com/index.php?/topic/207196-now-developed-by-kochi-112x-solid-rocket-booster-waterfall-effects-swe/ 
+
+LICENSE:
+CC-BY-NC-SA
