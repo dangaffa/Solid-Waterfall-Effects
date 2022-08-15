@@ -11,11 +11,11 @@ Requires RealPlume, RealPlume Stock*, Module Manager, Waterfall 0.8.X , Smokescr
 
  
 
-NOTE: ROCKET SOUND ENHANCEMENT WILL OVERRIDE SWE's SOUNDS AND WILL USE ITS OWN INSTEAD, DO NOT USE RSE IF YOU WANT SWE TO USE ITS OWN SOUNDS
+NOTE: ROCKET SOUND ENHANCEMENT WILL OVERRIDE THE SOUNDS PROVIDED BY THIS MOD
 
 Thanks to:
 
-Kochi (Original configs for Waterfall and RealPlume, as well as continuing to develop this mod, AND for making this Github)
+Kochi (Original configs for Waterfall and RealPlume, and for making this Github)
 
 Leopard (Module Manager Patches)
 
@@ -23,7 +23,7 @@ Lemoncup (Custom PhotonCorp Configs)
 
 
 
-https://forum.kerbalspaceprogram.com/index.php?/topic/207196-now-developed-by-kochi-112x-solid-rocket-booster-waterfall-effects-swe/ 
+https://forum.kerbalspaceprogram.com/index.php?/topic/207196-112x-srb-waterfall-effects/
 
 LICENSE:
 CC-BY-NC-SA
