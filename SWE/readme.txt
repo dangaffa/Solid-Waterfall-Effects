@@ -1,4 +1,4 @@
-REQUIRES Realplume, Realplume Stock Configs, Module Manager, Waterfall, Smokescreen, TUFX
+REQUIRES Module Manager, Waterfall, Smokescreen
 
 Thanks to, 
 Kochi (Original config for the SRB and realplume, continuing development)
